@@ -1,5 +1,8 @@
 # Pastes
 for the lazy 
+
+officescan/console/html/cgi/cgiChkMasterPwd.exe
+
 REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE
 \Microsoft\Windows NT\CurrentVersion
 \Winlogon" /v DefaultUserName /t
